@@ -8,4 +8,4 @@ permalink: https://www.techinbag.com/contact-us/
 published: true
 post_date: 2018-06-30 02:19:32
 ---
-[wpforms id="45"]
+[wpforms id="45" title="false" description="false"]
