@@ -7,7 +7,7 @@ author: TechinBag
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.techinbag.com/announcements/how-zoho-remote-is-bridging-the-work-from-home-with-their-latest-offering/
+  https://www.techinbag.com/how-zoho-remote-is-bridging-the-work-from-home-with-their-latest-offering/
 published: true
 post_date: 2020-07-28 22:44:03
 ---
